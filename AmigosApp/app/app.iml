@@ -82,7 +82,11 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Parse-1.6.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-20.0.0" level="project" />
+<<<<<<< HEAD
     <orderEntry type="library" exported="" name="support-v4-20.0.0" level="project" />
+=======
+    <orderEntry type="module" module-name="facebook" exported="" />
+>>>>>>> FETCH_HEAD
   </component>
 </module>
 

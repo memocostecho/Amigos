@@ -12,5 +12,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
     <string name="title_activity_description">DescriptionActivity</string>
+    <string name="home">Home</string>
+    <string name="perfil">Perfil</string>
+    <string name="settings">Settings</string>
 
 </resources>
