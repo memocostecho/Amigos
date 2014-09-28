@@ -19,4 +19,6 @@
     <string name="facebook_id">1464687687153222</string>
     <string name="parse_app_id">vbBMsu17JgSE7krytApGnVlUobPkz6xfrDi28PMn</string>
     <string name="parse_client_key">y2rV0yPNkgBgjCilZHCQUXiLilTSiC6V1zVSupG4</string>
+    <string name="custom">Custom</string>
+    <string name="personal">Personal</string>
 </resources>

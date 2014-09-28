@@ -20,6 +20,8 @@ import com.parse.ParseException;
 import com.parse.ParseFacebookUtils;
 import com.parse.ParseUser;
 
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 import java.util.List;
 
@@ -31,6 +33,7 @@ public class LoginActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
         getActionBar().hide();
+
 
         Button loginButton = (Button)findViewById(R.id.facebook_login);
         loginButton.setOnClickListener(new View.OnClickListener() {
